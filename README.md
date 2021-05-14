@@ -1,6 +1,8 @@
 # Freelancer
 
-## Visualize o projeto que desenvolvi a partir do desafio proposto: https://freelancer-ten.vercel.app/
+## Visualize o projeto que desenvolvi a partir do desafio proposto: 
+
+https://freelancer-ten.vercel.app/
 
 Página desenvolvida em HTML5 e CSS3.
 
